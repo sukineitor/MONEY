@@ -2,7 +2,7 @@
   "name": "ticket_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sukineitor.github.io/NardMoney/build",
+  "homepage": "https://sukineitor.github.io/Money/build",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
