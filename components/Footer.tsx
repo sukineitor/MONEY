@@ -37,14 +37,20 @@ const Footer: React.FC = () => {
           >
             <h3 className="text-lg font-semibold mb-4 text-blue-300">Síguenos</h3>
             <div className="flex space-x-4">
-              <a href="https://youtube.com/@leojhon.v?si=UGnyowvGArMUE6Zn" className="text-gray-300 hover:text-blue-200 transition-colors">
+              <a href="#" className="text-gray-300 hover:text-blue-200 transition-colors">
                 <Youtube size={20} />
               </a>
-              <a href="https://www.facebook.com/share/g/goNHX7ZRg8mP22XP/" className="text-gray-300 hover:text-blue-200 transition-colors">
+              <a href="#" className="text-gray-300 hover:text-blue-200 transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="https://www.instagram.com/leojhon.v" className="text-gray-300 hover:text-blue-200 transition-colors">
+              <a href="#" className="text-gray-300 hover:text-blue-200 transition-colors">
                 <Instagram size={20} />
+              </a>
+              <a href="#" className="text-gray-300 hover:text-blue-200 transition-colors">
+                <Clapperboard size={20} />
+              </a>
+              <a href="#" className="text-gray-300 hover:text-blue-200 transition-colors">
+                <MessageCircle size={20} />
               </a>
             </div>
           </motion.div>
