@@ -5,17 +5,17 @@ export const opportunities: Opportunity[] = [
     name: "Swagbucks",
     description: "Gana puntos realizando encuestas, viendo videos y comprando en línea. Los puntos se canjean por dinero en PayPal o tarjetas de regalo.",
     category: "Encuestas y Tareas",
-    countries: ["Estados Unidos", "Canadá", "Reino Unido", "Irlanda", "Alemania", "Francia", "España", "Australia"],
-    link: "https://www.swagbucks.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=8VLMHfOHEFg"
+    countries: ["Estados Unidos", "Canadá", "Reino Unido", "Irlanda","Peru", "Alemania", "Francia", "España", "Australia"],
+    link: "https://www.swagbucks.com/p/register?rb=140555024&rp=1",
+    youtubeLink: "https://youtu.be/l-tMTbDuJNw?si=1L1pm6XLsJ1-U13c"
   },
   {
     name: "Toluna",
     description: "Participa en encuestas y comparte tu opinión para acumular puntos que puedes canjear por recompensas o efectivo.",
     category: "Encuestas",
     countries: ["Global"],
-    link: "https://toluna.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=VTVRyMXUZEU"
+    link: "https://www.toluna.com/register?referralGuid=556898c7-a6cd-4363-b205-198cfbf6db35",
+    youtubeLink: "https://youtu.be/YmabU8cO6i8?si=Dk8NFKLmQcmDwgQi"
   },
   {
     name: "LifePoints",
@@ -23,7 +23,7 @@ export const opportunities: Opportunity[] = [
     category: "Encuestas",
     countries: ["Global"],
     link: "https://www.lifepointspanel.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=vL6e6Fq0Vl8"
+    youtubeLink: "https://youtu.be/ntZV5MV8Gww?si=yagOzjYlrWLzkk_x"
   },
   {
     name: "FeaturePoints",
@@ -31,24 +31,10 @@ export const opportunities: Opportunity[] = [
     category: "Encuestas y Tareas",
     countries: ["Global"],
     link: "https://featurepoints.com",
-    youtubeLink: "https://www.youtube.com/watch?v=example"
+    youtubeLink: "https://youtu.be/tKg4Ja56rCk?si=VFyNHWYNpYa9LAg5"
   },
-  {
-    name: "Pinecone Research",
-    description: "Participa en encuestas exclusivas y recibe recompensas en efectivo o tarjetas de regalo.",
-    category: "Encuestas",
-    countries: ["Estados Unidos", "Canadá", "Reino Unido", "Alemania"],
-    link: "",
-    youtubeLink: ""
-  },
-  {
-    name: "Slidejoy",
-    description: "Obtén recompensas al desbloquear la pantalla de tu móvil y ver anuncios personalizados.",
-    category: "Publicidad Móvil",
-    countries: ["Estados Unidos"],
-    link: "",
-    youtubeLink: ""
-  },
+
+
   {
     name: "Respondent.io",
     description: "Participa en estudios de investigación y encuestas para profesionales y recibe pagos por tu tiempo.",
@@ -157,9 +143,9 @@ export const opportunities: Opportunity[] = [
     name: "Mercado Libre",
     description: "Vende productos nuevos o usados en una de las plataformas de comercio electrónico más grandes de Latinoamérica.",
     category: "Comercio Electrónico",
-    countries: ["Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Costa Rica", "Ecuador", "Guatemala", "Honduras", "México", "Nicaragua", "Panamá", "Paraguay", "Perú", "República Dominicana", "El Salvador", "Uruguay", "Venezuela"],
+    countries: ["Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Costa Rica", "Ecuador", "Guatemala", "Honduras", "México", "Nicaragua", "Panamá", "Paraguay", "Peru", "República Dominicana", "El Salvador", "Uruguay", "Venezuela"],
     link: "https://www.mercadolibre.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=ZBpkMDuUx7Y"
+    youtubeLink: "https://youtu.be/Rdmfwzh2RGw?si=b3sV5Rnp59FpvU-J"
   },
   {
     name: "Uber",
@@ -173,9 +159,9 @@ export const opportunities: Opportunity[] = [
     name: "Rappi",
     description: "Realiza entregas de comida y otros productos para ganar dinero en tu tiempo libre.",
     category: "Entregas",
-    countries: ["Argentina", "Brasil", "Chile", "Colombia", "Costa Rica", "Ecuador", "México", "Perú", "Uruguay"],
+    countries: ["Argentina", "Brasil", "Chile", "Colombia", "Costa Rica", "Ecuador", "México", "Peru", "Uruguay"],
     link: "https://www.rappi.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=qKtNwk0qMQY"
+    youtubeLink: "https://youtu.be/SWqsqCZeufA?si=jqdoLy70cMys0I-o"
   },
   {
     name: "TaskRabbit",
@@ -221,7 +207,7 @@ export const opportunities: Opportunity[] = [
     name: "Poll Pay",
     description: "Responde encuestas en español y recibe pagos a través de PayPal o tarjetas de regalo.",
     category: "Encuestas",
-    countries: ["España", "México", "Colombia", "Argentina", "Chile", "Perú"],
+    countries: ["España", "México", "Colombia", "Argentina", "Chile", "Peru"],
     link: "",
     youtubeLink: ""
   },
@@ -351,7 +337,7 @@ export const opportunities: Opportunity[] = [
     category: "Pruebas de Software",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/iG0VyWef8_w?si=hmDEHLni6r8OVYN5"
   },
   {
     name: "Twitch",
@@ -359,7 +345,7 @@ export const opportunities: Opportunity[] = [
     category: "Streaming",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/gQjdLnk6PFA?si=chVdRB-mGYOqrAhz"
   },
   {
     name: "YouTube",
@@ -367,7 +353,7 @@ export const opportunities: Opportunity[] = [
     category: "Creación de Contenido",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/9rLRLpYhR9U?si=nQhjJ3mByXQLsql-"
   },
   {
     name: "Kwai",
@@ -375,15 +361,15 @@ export const opportunities: Opportunity[] = [
     category: "Creación de Contenido",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/Woc0z6ujh8Q?si=SxskqLaeWg3uV2fj"
   },
   {
-    name: "TikTok Creator Fund",
+    name: "TikTok",
     description: "Gana dinero creando contenido viral en TikTok si cumples con los requisitos mínimos.",
     category: "Creación de Contenido",
     countries: ["Estados Unidos", "Reino Unido", "Alemania", "Francia", "España", "Italia"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/l2svC09XxuA?si=WBZb-wX6TVW3PfOX"
   },
   {
     name: "Shutterstock",
@@ -391,7 +377,7 @@ export const opportunities: Opportunity[] = [
     category: "Venta de Contenido Visual",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/F7maOyFpxUw?si=tVvirZm0ztA8XA1f"
   },
   {
     name: "Rev",
@@ -399,55 +385,55 @@ export const opportunities: Opportunity[] = [
     category: "Transcripción y Traducción",
     countries: ["Global"],
     link: "",
-    youtubeLink: ""
+    youtubeLink: "https://youtu.be/HbWMhAc4J28?si=JHKgV7nflssIGoXp"
   },
   {
     name: "DominoVamos",
     description: "Juego de casino, puedes jugar domino, crash, rasca y gana, slot, etc.",
     category: "Juegos de Azar",
-    countries: ["Venezuela"],
-    link: "",
-    youtubeLink: ""
+    countries: ["Venezuela", "Peru", "Mexico", "Colombia","Republica Dominicana", "Bolivia", "Guatemala", "Salvador","Costa Rica"],
+    link: "https://godomino.dominovamos.com?from=SWHX391",
+    youtubeLink: "https://youtu.be/QvZr_x27KGc?si=kcYorXn-rhcegryo"
   },
   {
     name: "Bumeran",
     description: "Plataforma de búsqueda de empleo líder en Latinoamérica. Ofrece oportunidades de trabajo remoto y presencial.",
     category: "Empleo",
-    countries: ["Perú", "Argentina", "Chile", "México", "Panamá"],
+    countries: ["Peru", "Argentina", "Chile", "México", "Panamá"],
     link: "https://www.bumeran.com.pe/",
-    youtubeLink: "https://www.youtube.com/watch?v=8QKMVbLLIJ8"
+    youtubeLink: "https://youtu.be/5LQ5PivF8dA?si=ABskOnVGd_GTP47j"
   },
   {
     name: "Chamba",
     description: "Aplicación móvil peruana que conecta a empleadores con trabajadores para servicios y trabajos temporales.",
     category: "Empleo",
-    countries: ["Perú"],
+    countries: ["Peru"],
     link: "https://chamba.app/",
-    youtubeLink: "https://www.youtube.com/watch?v=7ZYIFktozI8"
+    youtubeLink: ""
   },
   {
     name: "Culqi",
     description: "Plataforma de pagos en línea que permite a los negocios aceptar pagos por internet. Ideal para emprendedores y pequeños negocios.",
     category: "Fintech",
-    countries: ["Perú"],
+    countries: ["Peru"],
     link: "https://www.culqi.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=7wd7JMY7ck4"
+    youtubeLink: ""
   },
   {
     name: "Crehana",
     description: "Plataforma de educación en línea donde puedes vender cursos sobre tus habilidades y conocimientos.",
     category: "Educación",
-    countries: ["Perú", "México", "Colombia", "Argentina", "Chile", "España"],
+    countries: ["Peru", "México", "Colombia", "Argentina", "Chile", "España"],
     link: "https://www.crehana.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=xKwVdpHmZK8"
+    youtubeLink: "https://youtu.be/oDKaUwK3W9Y?si=tGdboxnN7qHakS-o"
   },
   {
     name: "Joinnus",
     description: "Plataforma para crear y vender entradas a eventos. Ideal para organizadores de eventos y emprendedores.",
     category: "Eventos",
-    countries: ["Perú"],
+    countries: ["Peru"],
     link: "https://www.joinnus.com/",
-    youtubeLink: "https://www.youtube.com/watch?v=Z3QY5QVXXZo"
+    youtubeLink: "https://youtu.be/uJOR-vk4gjo?si=jGFH440qQwJWHA93"
   }
 ]
 
