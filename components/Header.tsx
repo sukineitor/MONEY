@@ -16,12 +16,7 @@ export default function Header() {
             <li><Link href="#" className="hover:text-blue-300 transition-colors">Sobre Nosotros</Link></li>
           </ul>
         </nav>
-        
-                
-        <script type='text/javascript' src='//filthygracefulspinach.com/0a/18/46/0a1846067f8ae6ca687bee688e0fdc40.js'></script>
-        
       </div>
-      
     </header>
   )
 }
