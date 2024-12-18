@@ -1,9 +1,9 @@
-import React from 'react'
 import OpportunityGrid from '../components/OpportunityGrid'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import Advertisement from '../components/Advertisement'
 
-const Home: React.FC = () => {
+export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-blue-900 bg-grid">
       <div className="absolute inset-0 bg-blue-500 opacity-5 animate-pulse"></div>
@@ -18,12 +18,12 @@ const Home: React.FC = () => {
             con opciones disponibles en toda Latinoamérica y el mundo.
           </p>
         </section>
+        <Advertisement /> {/* Anuncio en la parte superior */}
         <OpportunityGrid />
+        <Advertisement /> {/* Anuncio en la parte inferior */}
       </main>
       <Footer />
     </div>
   )
 }
-
-export default Home
 
