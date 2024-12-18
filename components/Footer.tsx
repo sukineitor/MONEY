@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.6 }}
         >
-          <p className="text-sm text-gray-400">&copy; 2023 NardMoney. Todos los derechos reservados.</p>
+          <p className="text-sm text-gray-400">&copy; 2024 NardMoney. Todos los derechos reservados.</p>
         </motion.div>
       </div>
     </footer>
